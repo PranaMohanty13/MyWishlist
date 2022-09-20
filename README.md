@@ -22,7 +22,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-</>
+< https://github.com/PranaMohanty13/MyWishlist/blob/main/Walkthrough.gif />
 
 <[ScreenToGif](https://www.screentogif.com/) -->
 
